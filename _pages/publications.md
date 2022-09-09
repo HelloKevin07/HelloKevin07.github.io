@@ -29,6 +29,6 @@ Proceedings of the 27th ACM International Conference on Architectural Support fo
 [[PDF]](https://dl.acm.org/doi/10.1145/3503222.3507757)
 
 <b>MagHacker: eavesdropping on stylus pen writing via magnetic sensing from commodity mobile devices</b> <br>
-Yihao Liu*, <b>Kai Huang</b>*, Xingzhe Song, Boyuan Yang, Wei Gao <br>
+Yihao Liu\*, <b>Kai Huang</b>\*, Xingzhe Song, Boyuan Yang, Wei Gao <br>
 Proceedings of the 18th International Conference on Mobile Systems, Applications, and Services (<b>MobiSys'20</b>)<br>
 [[PDF]](https://dl.acm.org/doi/10.1145/3386901.3389030)
