@@ -12,7 +12,7 @@ Ruirong Chen, <b>Kai Huang</b>, Wei Gao <br>
 Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems (<b>SenSys'22</b>)<br>
 Acceptance Ratio: 52/209=24.8%<br>
 [[PDF]](https://doi.org/10.1145/3560905.3568537)
-[[slides]](http://hellokevin07.github.io/files/AiFi-slides.pptx)
+[[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/AiFi-slides.pptx)
 
 <b>Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI</b> <br>
 <b>Kai Huang</b>, Wei Gao <br>
@@ -20,7 +20,7 @@ The 28th Annual International Conference On
 Mobile Computing And Networking (<b>MobiCom'22</b>)<br>
 Acceptance Ratio: 56/314=17.8%<br>
 [[PDF]](https://doi.org/10.1145/3495243.3560551)
-[[slides]](http://hellokevin07.github.io/files/AgileNN-slides.pptx)
+[[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/AgileNN-slides.pptx)
 [[code]](https://github.com/HelloKevin07/AgileNN)
 
 <b>RAScatter: Achieving Energy-Efficient Backscatter Readers via AI-Assisted Power Adaptation</b> <br>
@@ -28,7 +28,7 @@ Acceptance Ratio: 56/314=17.8%<br>
 2022 IEEE/ACM Seventh International Conference on Internet-of-Things Design and Implementation (<b>IoTDI'22</b>)<br>
 Acceptance Ratio: 12/36=33.3%<br>
 [[PDF]](https://ieeexplore.ieee.org/document/9797444)
-[[slides]](http://hellokevin07.github.io/files/RAScatter-slides.pptx)
+[[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/RAScatter-slides.pptx)
 
 <b>FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones</b> <br>
 Xingzhe Song, <b>Kai Huang</b>, Wei Gao <br>
