@@ -7,11 +7,16 @@ author_profile: true
 
 \* indicates equal contributions
 
+<b>AiFi: AI-Enabled WiFi Interference Cancellation with Commodity PHY-Layer Information</b> <br>
+Ruirong Chen, <b>Kai Huang</b>, Wei Gao <br>
+Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems (<b>SenSys'22</b>)<br>
+[[PDF]](https://doi.org/10.1145/3560905.3568537)
+
 <b>Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI</b> <br>
 <b>Kai Huang</b>, Wei Gao <br>
 The 28th Annual International Conference On
 Mobile Computing And Networking (<b>MobiCom'22</b>)<br>
-[[PDF]](https://doi.org/10.1145/3495243.3560551) (to appear)
+[[PDF]](https://doi.org/10.1145/3495243.3560551)
 
 <b>RAScatter: Achieving Energy-Efficient Backscatter Readers via AI-Assisted Power Adaptation</b> <br>
 <b>Kai Huang</b>, Ruirong Chen, Wei Gao <br>
