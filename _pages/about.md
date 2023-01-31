@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Kai Huang /kaɪ hʊʌŋ/, currently a fourth-year Ph.D. student at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/). My advisor is Dr. [Wei Gao](https://sites.pitt.edu/~weigao/), who leads the Mobile Systems & Networking Lab. My research interests include on-device AI, AI for systems, and AI-assisted wireless communication systems. Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). 
+Hi, I am Kai Huang /kaɪ hʊʌŋ/, currently a fourth-year Ph.D. student at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/). My advisor is Dr. [Wei Gao](https://sites.pitt.edu/~weigao/), who leads the Mobile Systems & Networking Lab. 
 
-I like jogging, ice skating, skiing, and listening to lofi music.
+My research aims for 1) providing modular, interpretable, and lightweight AI solutions to enhancing performance of wireless communication systems; 2) building efficient neural network inference/training systems (i.e. on-device AI). Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). 
+
+I enjoy jogging, ice skating, skiing, and listening to lofi music.
 
 Education
 ======
