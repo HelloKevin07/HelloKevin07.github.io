@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kai Huang"
+title: "Kai Huang 黄凯"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
