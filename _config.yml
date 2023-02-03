@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kai Huang @ Pitt"
 title_separator          : "-"
-name                     : &name "Kai Huang"
+name                     : &name "Kai Huang (黄凯)"
 description              : &description "My Homepage"
 url                      : https://hellokevin07.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
