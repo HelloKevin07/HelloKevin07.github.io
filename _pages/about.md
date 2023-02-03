@@ -12,7 +12,7 @@ Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year Ph.D. student at th
 
 **Research Interests:** AI for Systems, On-Device AI, Mobile Computing, Edge Computing
 
-My research aims for 1) providing modular, interpretable, and lightweight AI solutions to enhancing performance of wireless communication systems; 2) building efficient neural network inference/training systems, such as mobile AI. Thanks to my amazing colleagues and my advisor, these efforts are turned into publications in top conferences, e.g., ACM MobiCom, MobiSys, and SenSys. Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf).
+My research aims for 1) providing modular, interpretable, and lightweight AI solutions to enhancing performance of wireless communication systems; 2) building efficient neural network inference/training systems, e.g., on MCU boards, Raspberry Pi, and Nvidia Jetson. Thanks to my amazing colleagues and my advisor, these efforts are turned into publications in top conferences, e.g., ACM MobiCom, MobiSys, and SenSys. Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf).
 
 Education
 ======
