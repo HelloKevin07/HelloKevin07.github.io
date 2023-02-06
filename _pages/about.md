@@ -17,7 +17,7 @@ My research aims for 1) providing modular, interpretable, and lightweight AI sol
 Education
 ======
 * <b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, On-going
-* <b>B.E.</b>, Electronic Information Engineering, [University of Science and Technology of China](https://en.ustc.edu.cn/), Sept. 2015 - July 2019
+* <b>B.E.</b>, Electronic Information Engineering, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), Sept. 2015 - July 2019
 
 Latest News
 ======
