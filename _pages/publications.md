@@ -40,11 +40,11 @@ Acceptance Ratio: 38/126=30.2%<br>
 Boyuan Yang, Ruirong Chen, <b>Kai Huang</b>, Jun Yang, Wei Gao <br>
 Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS'22</b>)<br>
 Acceptance Ratio: 80/397=20.2%<br>
-[[PDF]](http://hellokevin07.github.io/files/asplos22-perfinfer)
+[[PDF]](http://hellokevin07.github.io/files/asplos22-perfinfer.pdf)
 [[code]](https://github.com/perfinfer/code)
 
 <b>MagHacker: eavesdropping on stylus pen writing via magnetic sensing from commodity mobile devices</b> <br>
 Yihao Liu\*, <b>Kai Huang</b>\*, Xingzhe Song, Boyuan Yang, Wei Gao <br>
 Proceedings of the 18th International Conference on Mobile Systems, Applications, and Services (<b>MobiSys'20</b>)<br>
 Acceptance Ratio: 34/175=19.4%<br>
-[[PDF]](http://hellokevin07.github.io/files/mobisys20-MagHacker)
+[[PDF]](http://hellokevin07.github.io/files/mobisys20-MagHacker.pdf)
