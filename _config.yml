@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kai Huang @ Pitt"
+title                    : "Kai Huang's Homepage"
 title_separator          : "-"
 name                     : &name "Kai Huang"
 description              : &description "My Homepage"
