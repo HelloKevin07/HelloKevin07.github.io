@@ -11,13 +11,13 @@ author_profile: true
 Xiangyu Yin, <u>Kai Huang</u>, Erick Forno, Wei Chen, Heng Huang, Wei Gao <br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services (<b>MobiSys'23</b>)<br>
 Acceptance Ratio: 41/198=20.7%<br>
-(Accepted)
+[to appear]
 
 <b>ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection </b> <br>
 <u>Kai Huang</u>, Boyuan Yang, Wei Gao <br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services (<b>MobiSys'23</b>)<br>
 Acceptance Ratio: 41/198=20.7%<br>
-(Accepted)
+[to appear][[code]](https://github.com/HelloKevin07/ElasticTrainer)
 
 <b>AiFi: AI-Enabled WiFi Interference Cancellation with Commodity PHY-Layer Information</b> <br>
 Ruirong Chen, <u>Kai Huang</u>, Wei Gao <br>
