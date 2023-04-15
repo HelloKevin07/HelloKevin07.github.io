@@ -41,6 +41,7 @@ Acceptance Ratio: 56/314=17.8%<br>
 Acceptance Ratio: 12/36=33.3%<br>
 [[PDF]](http://hellokevin07.github.io/files/iotdi22-RAScatter.pdf)
 [[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/RAScatter-slides.pptx)
+[[code]](https://github.com/HelloKevin07/RAScatter)
 
 <b>FaceListener: Recognizing Human Facial Expressions via Acoustic Sensing on Commodity Headphones</b> <br>
 Xingzhe Song, <u>Kai Huang</u>, Wei Gao <br>
