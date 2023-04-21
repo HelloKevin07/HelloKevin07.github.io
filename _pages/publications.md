@@ -33,6 +33,7 @@ Mobile Computing And Networking (<b>MobiCom'22</b>)<br>
 Acceptance Ratio: 56/314=17.8%<br>
 [[PDF]](http://hellokevin07.github.io/files/mobicom22-AgileNN.pdf)
 [[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/AgileNN-slides.pptx)
+[[talk]](https://www.youtube.com/watch?v=OwNRcuTRgwE)
 [[code]](https://github.com/HelloKevin07/AgileNN)
 
 <b>RAScatter: Achieving Energy-Efficient Backscatter Readers via AI-Assisted Power Adaptation</b> <br>
@@ -54,6 +55,7 @@ Boyuan Yang, Ruirong Chen, <u>Kai Huang</u>, Jun Yang, Wei Gao <br>
 Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS'22</b>)<br>
 Acceptance Ratio: 80/397=20.2%<br>
 [[PDF]](http://hellokevin07.github.io/files/asplos22-perfinfer.pdf)
+[[talk]](https://www.youtube.com/watch?v=LE9Eyn43zSs)
 [[code]](https://github.com/perfinfer/code)
 
 <b>MagHacker: eavesdropping on stylus pen writing via magnetic sensing from commodity mobile devices</b> <br>
