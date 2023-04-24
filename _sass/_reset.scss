@@ -68,7 +68,6 @@ audio:not([controls]) {
 
 a {
   color: $link-color;
-  text-decoration:none;
 }
 
 /* Apply focus state */
@@ -82,6 +81,7 @@ a:focus {
 a:hover,
 a:active {
   outline: 0;
+  border-bottom: none !important;
 }
 
 
