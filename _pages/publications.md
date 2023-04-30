@@ -11,7 +11,7 @@ author_profile: true
 Xiangyu Yin, <u>Kai Huang</u>, Erick Forno, Wei Chen, Heng Huang, Wei Gao <br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services (<b>MobiSys'23</b>)<br>
 Acceptance Ratio: 41/198=20.7%<br>
-[to appear]
+[to appear][[code]](https://github.com/ericyxy98/PTEase)
 
 <b>ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection </b> <br>
 <u>Kai Huang</u>, Boyuan Yang, Wei Gao <br>
