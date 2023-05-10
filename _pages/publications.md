@@ -17,7 +17,7 @@ Acceptance Ratio: 41/198=20.7%<br>
 <b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
 [<b><span style="color:red">MobiSys'23</span></b>] Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services <br>
 Acceptance Ratio: 41/198=20.7%<br>
-<b><span style="color:blue">Awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges</span></b> <br>
+<b><span style="color:blue">Awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4/17)</span></b> <br>
 [to appear][[code]](https://github.com/HelloKevin07/ElasticTrainer)
 
 <b>AiFi: AI-Enabled WiFi Interference Cancellation with Commodity PHY-Layer Information</b> <br>
