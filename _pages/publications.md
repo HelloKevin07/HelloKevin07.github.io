@@ -28,7 +28,7 @@ Acceptance Ratio: 52/209=24.8%<br>
 [[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/AiFi-slides.pptx)
 
 [<b><span style="color:red">MobiCom'22</span></b>] <span style="color:#527bbd">Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI</span> <br>
-<u>Kai Huang</u>, Wei Gao <br>
+<b>Kai Huang</b>, Wei Gao <br>
 The 28th Annual International Conference On
 Mobile Computing And Networking <br>
 Acceptance Ratio: 56/314=17.8%<br>
