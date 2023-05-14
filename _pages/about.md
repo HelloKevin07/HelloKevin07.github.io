@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+## About Me
 Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year PhD student at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/). My advisor is [Dr. Wei Gao](https://sites.pitt.edu/~weigao/), who leads the Mobile Systems & Networking Lab. 
 
 **Research Interests:** AI for Systems, On-Device AI, Mobile Computing, Edge Computing
 
-Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to 1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; 2) provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
+Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to 1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; 2) provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
 
-Education
-======
+## Education
 * <b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, On-going
 * <b>B.E.</b>, Electronic Information Engineering, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), Sept. 2015 - July 2019
 
-Latest News
-======
+## Latest News
 * [5/2023] ElasticTrainer got awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges!
 * [2/2023] Two papers got conditionally accepted to The 21st ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys)</b> 2023!
 * [10/2022] One paper got accepted to The 20th ACM Conference on Embedded Networked Sensor Systems <b>(SenSys)</b> 2022!
@@ -30,6 +29,5 @@ Latest News
 * [11/2021] One paper got accepted to International Conference on Architectural Support for Programming Languages and Operating Systems <b>(ASPLOS)</b> 2022!
 * [3/2020] One paper got accepted to The 18th ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys)</b> 2020!
 
-Visitors
-======
+## Visitors
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=g7u5IUOs5t68iO-I4a8qm8n-jEiqio_uFKOmjHZBpT4&co=2589cf"></script>
