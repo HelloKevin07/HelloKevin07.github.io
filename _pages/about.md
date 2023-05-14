@@ -1,23 +1,25 @@
 ---
 permalink: /
-# title: ""
-# excerpt: "About me"
+title: ""
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About Me
+
 Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year PhD student at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/). My advisor is [Dr. Wei Gao](https://sites.pitt.edu/~weigao/), who leads the Mobile Systems & Networking Lab. 
 
 **Research Interests:** AI for Systems, On-Device AI, Mobile Computing, Edge Computing
 
 Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to 1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; 2) provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top system conferences, e.g., ACM MobiCom, MobiSys, and SenSys. Check my publications [here](https://hellokevin07.github.io/publications/).
 
+
 ## Education
 * <b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, On-going
 * <b>B.E.</b>, Electronic Information Engineering, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), Sept. 2015 - July 2019
+
 
 ## Latest News
 * [5/2023] ElasticTrainer got awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges!
