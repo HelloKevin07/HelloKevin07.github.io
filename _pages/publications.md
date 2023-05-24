@@ -7,7 +7,8 @@ author_profile: true
 
 \* indicates equal contributions
 
-[<b><span style="color:red">MobiSys'23</span></b>] <span style="color:#527bbd">PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones </span> <br>
+[<b><a href="https://www.sigmobile.org/mobisys/2023/index.html#" style="color:red" style="text-decoration:none">MobiSys'23</a></b>]
+<span style="color:#527bbd">PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones </span> <br>
 Xiangyu Yin, <b>Kai Huang</b>, Erick Forno, Wei Chen, Heng Huang, Wei Gao <br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services <br>
 Acceptance Ratio: 41/198=20.7%<br>
@@ -15,7 +16,8 @@ Acceptance Ratio: 41/198=20.7%<br>
 [[teaser]](https://youtu.be/Netn1AOdsz8)
 [[code]](https://github.com/ericyxy98/PTEase)
 
-[<b><span style="color:red">MobiSys'23</span></b>] <span style="color:#527bbd">ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection </span> <br>
+[<b><span style="color:red">MobiSys'23</span></b>]
+<span style="color:#527bbd">ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection </span> <br>
 <b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services <br>
 Acceptance Ratio: 41/198=20.7%<br>
