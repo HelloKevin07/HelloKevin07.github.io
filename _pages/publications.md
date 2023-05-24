@@ -19,7 +19,7 @@ Acceptance Ratio: 41/198=20.7%<br>
 <b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services <br>
 Acceptance Ratio: 41/198=20.7%<br>
-Awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (3/17) <br>
+:tada: Awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (3/17) <br>
 [to appear]
 [[teaser]](https://youtu.be/q86LnqEew_U)
 [[code]](https://github.com/HelloKevin07/ElasticTrainer)
