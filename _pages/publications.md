@@ -7,7 +7,7 @@ author_profile: true
 
 \* indicates equal contributions
 
-[<b><a href="https://www.sigmobile.org/mobisys/2023/index.html#" style="color:red" style="text-decoration:none">MobiSys'23</a></b>]
+[<b><span style="color:red">MobiSys'23</span></b>] 
 <span style="color:#527bbd">PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones </span> <br>
 Xiangyu Yin, <b>Kai Huang</b>, Erick Forno, Wei Chen, Heng Huang, Wei Gao <br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services <br>
