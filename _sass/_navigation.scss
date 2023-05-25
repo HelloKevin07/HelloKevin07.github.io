@@ -173,7 +173,7 @@
    ========================================================================== */
 
 .greedy-nav {
-  position: relative;
+  position: fixed;
   min-width: 250px;
   // background: $background-color;
   background-color: $masthead-color;
@@ -227,7 +227,7 @@
     }
 
     a {
-      position: relative;
+      position: fixed;
 
       &:before {
         content: "";
