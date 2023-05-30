@@ -12,7 +12,7 @@ author_profile: true
 Xiangyu Yin, <b>Kai Huang</b>, Erick Forno, Wei Chen, Heng Huang, Wei Gao <br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services <br>
 Acceptance Ratio: 41/198=20.7%<br>
-[to appear]
+[[paper]](http://hellokevin07.github.io/files/mobisys23-PTEase.pdf)
 [[teaser]](https://youtu.be/Netn1AOdsz8)
 [[code]](https://github.com/ericyxy98/PTEase)
 
@@ -22,7 +22,7 @@ Acceptance Ratio: 41/198=20.7%<br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services <br>
 Acceptance Ratio: 41/198=20.7%<br>
 &#127881; Awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4/17) <br>
-[to appear]
+[[paper]](http://hellokevin07.github.io/files/mobisys23-ElasticTrainer.pdf)
 [[teaser]](https://youtu.be/q86LnqEew_U)
 [[code]](https://github.com/HelloKevin07/ElasticTrainer)
 
