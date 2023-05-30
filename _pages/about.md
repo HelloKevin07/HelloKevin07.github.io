@@ -15,7 +15,7 @@ Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year PhD student at the 
 
 Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to (1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; (2) tailor AI models based on domain knowledge, e.g., provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
 
-# Research Hights
+# Research Highlights
 [<b><span style="color:red">MobiSys'23</span></b>]
 <span style="color:#527bbd">ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection </span> <br>
 <b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
