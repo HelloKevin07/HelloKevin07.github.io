@@ -13,8 +13,38 @@ Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year PhD student at the 
 
 **Research Interests:** AI for Systems, On-Device AI, Mobile Computing, Edge Computing
 
-Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to (1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; (2) provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top system conferences, e.g., ACM MobiCom, MobiSys, and SenSys. Check my publications [here](https://hellokevin07.github.io/publications/).
+Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to (1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; (2) tailor AI models based on domain knowledge, e.g., provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
 
+# Research Hights
+[<b><span style="color:red">MobiSys'23</span></b>]
+<span style="color:#527bbd">ElasticTrainer: Speeding Up On-Device Training with Runtime Elastic Tensor Selection </span> <br>
+<b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
+Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services <br>
+Acceptance Ratio: 41/198=20.7%<br>
+&#127881; Awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4/17) <br>
+[[paper]](http://hellokevin07.github.io/files/mobisys23-ElasticTrainer.pdf)
+[[teaser]](https://youtu.be/q86LnqEew_U)
+[[code]](https://github.com/HelloKevin07/ElasticTrainer)
+
+[<b><span style="color:red">MobiCom'22</span></b>] <span style="color:#527bbd">Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI</span> <br>
+<b>Kai Huang</b>, Wei Gao <br>
+The 28th Annual International Conference On
+Mobile Computing And Networking <br>
+Acceptance Ratio: 56/314=17.8%<br>
+[[paper]](http://hellokevin07.github.io/files/mobicom22-AgileNN.pdf)
+[[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/AgileNN-slides.pptx)
+[[talk]](https://www.youtube.com/watch?v=OwNRcuTRgwE)
+[[code]](https://github.com/HelloKevin07/AgileNN)
+
+[<b><span style="color:red">IoTDI'22</span></b>] <span style="color:#527bbd">RAScatter: Achieving Energy-Efficient Backscatter Readers via AI-Assisted Power Adaptation</span> <br>
+<b>Kai Huang</b>, Ruirong Chen, Wei Gao <br>
+2022 IEEE/ACM Seventh International Conference on Internet-of-Things Design and Implementation <br>
+Acceptance Ratio: 12/36=33.3%<br>
+[[paper]](http://hellokevin07.github.io/files/iotdi22-RAScatter.pdf)
+[[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/RAScatter-slides.pptx)
+[[code]](https://github.com/HelloKevin07/RAScatter)
+
+Check all my publications [here](https://hellokevin07.github.io/publications/).
 
 # Education
 * <b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, On-going
