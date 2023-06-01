@@ -32,6 +32,7 @@ Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems <br>
 Acceptance Ratio: 52/209=24.8%<br>
 [[paper]](http://hellokevin07.github.io/files/sensys22-AiFi.pdf)
 [[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/AiFi-slides.pptx)
+[[code]](https://github.com/mmcruirong/PHY_Reconstruct)
 
 [<b><span style="color:red">MobiCom'22</span></b>] <span style="color:#527bbd">Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI</span> <br>
 <b>Kai Huang</b>, Wei Gao <br>
