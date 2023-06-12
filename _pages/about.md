@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year PhD student at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/),  supervised by [Dr. Wei Gao](https://sites.pitt.edu/~weigao/). I have extensive interests in AI for Systems, On-Device AI, Mobile and Edge Computing.
 
-Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to (1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; (2) tailor AI models based on domain knowledge, e.g., provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
+Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to (1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; (2) tailor AI models based on domain knowledge, e.g., provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top-tier system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
 
 Selected Publications
 ====
@@ -37,7 +37,7 @@ Acceptance Ratio: 56/314=17.8%<br>
 
 [<b><span style="color:red">IoTDI'22</span></b>] <span style="color:#527bbd">RAScatter: Achieving Energy-Efficient Backscatter Readers via AI-Assisted Power Adaptation</span> <br>
 <b>Kai Huang</b>, Ruirong Chen, Wei Gao <br>
-7th ACM/IEEE Conference on Internet of Things Design and Implementation <br>
+The 7th ACM/IEEE Conference on Internet of Things Design and Implementation <br>
 Acceptance Ratio: 12/36=33.3%<br>
 [[paper]](http://hellokevin07.github.io/files/iotdi22-RAScatter.pdf)
 [[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/RAScatter-slides.pptx)

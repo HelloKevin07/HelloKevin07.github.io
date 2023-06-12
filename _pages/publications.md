@@ -46,7 +46,7 @@ Acceptance Ratio: 56/314=17.8%<br>
 
 [<b><span style="color:red">IoTDI'22</span></b>] <span style="color:#527bbd">RAScatter: Achieving Energy-Efficient Backscatter Readers via AI-Assisted Power Adaptation</span> <br>
 <b>Kai Huang</b>, Ruirong Chen, Wei Gao <br>
-7th ACM/IEEE Conference on Internet of Things Design and Implementation <br>
+The 7th ACM/IEEE Conference on Internet of Things Design and Implementation <br>
 Acceptance Ratio: 12/36=33.3%<br>
 [[paper]](http://hellokevin07.github.io/files/iotdi22-RAScatter.pdf)
 [[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/RAScatter-slides.pptx)
