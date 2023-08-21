@@ -14,12 +14,6 @@ Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year PhD student at the 
 Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to (1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; (2) tailor AI models based on domain knowledge, e.g., provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top-tier system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
 
 
-Education
-====
-* <b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, On-going
-* <b>B.E.</b>, Electronic Information Engineering, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), Sept. 2015 - July 2019
-
-
 Publications
 ====
 [<b><span style="color:red">ArXiv Preprint</span></b>]
@@ -103,6 +97,10 @@ Proceedings of the 18th International Conference on Mobile Systems, Applications
 Acceptance Ratio: 34/175=19.4%<br>
 [[paper]](http://hellokevin07.github.io/files/mobisys20-MagHacker.pdf)
 
+Education
+====
+* <b>Ph.D. student</b>, Electrical and Computer Engineering, University of Pittsburgh, On-going
+* <b>B.E.</b>, Electronic Information Engineering, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), Sept. 2015 - July 2019
 
 Latest News
 ====
