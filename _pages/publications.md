@@ -7,6 +7,11 @@ author_profile: true
 
 \* indicates equal contributions
 
+[<b><span style="color:red">ArXiv Preprint</span></b>] Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation </span> <br>
+<b>Kai Huang</b>, Wei Gao <br>
+[[paper]](http://hellokevin07.github.io/files/GreenTrainer.pdf)
+[[code]](https://github.com/HelloKevin07/GreenTrainer)
+
 [<b><span style="color:red">MobiSys'23</span></b>] 
 <span style="color:#527bbd">PTEase: Objective Airway Examination for Pulmonary Telemedicine using Commodity Smartphones </span> <br>
 Xiangyu Yin, <b>Kai Huang</b>, Erick Forno, Wei Chen, Heng Huang, Wei Gao <br>
@@ -34,6 +39,13 @@ Acceptance Ratio: 52/209=24.8%<br>
 [[paper]](http://hellokevin07.github.io/files/sensys22-AiFi.pdf)
 [[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/AiFi-slides.pptx)
 [[code]](https://github.com/mmcruirong/PHY_Reconstruct)
+
+[<b><span style="color:red">CML-IOT'22</span></b>] 
+<span style="color:#527bbd">Out-Clinic Pulmonary Disease Evaluation via Acoustic Sensing and Multi-Task Learning on Commodity Smartphones</span> <br>
+Xiangyu Yin, <b>Kai Huang</b>, Erick Forno, Wei Chen, Heng Huang, Wei Gao <br>
+The Fourth Workshop on Continual and Multimodal Learning for Internet of Things <br>
+&#127881; Best Paper Award <br>
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3560905.3568437)
 
 [<b><span style="color:red">MobiCom'22</span></b>] <span style="color:#527bbd">Real-time Neural Network Inference on Extremely Weak Devices: Agile Offloading with Explainable AI</span> <br>
 <b>Kai Huang</b>, Wei Gao <br>
@@ -68,7 +80,7 @@ Acceptance Ratio: 80/397=20.2%<br>
 [[code]](https://github.com/perfinfer/code)
 
 [<b><span style="color:red">MobiSys'20</span></b>] <span style="color:#527bbd">MagHacker: eavesdropping on stylus pen writing via magnetic sensing from commodity mobile devices</span> <br>
-Yihao Liu\*,<b>Kai Huang</b>\*, Xingzhe Song, Boyuan Yang, Wei Gao <br>
+Yihao Liu\*, <b>Kai Huang</b>\*, Xingzhe Song, Boyuan Yang, Wei Gao <br>
 Proceedings of the 18th International Conference on Mobile Systems, Applications, and Services <br>
 Acceptance Ratio: 34/175=19.4%<br>
 [[paper]](http://hellokevin07.github.io/files/mobisys20-MagHacker.pdf)
