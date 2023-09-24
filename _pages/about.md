@@ -18,7 +18,7 @@ Publications
 ====
 [<b><span style="color:red">ArXiv Preprint</span></b>]
 <span style="color:#527bbd">Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation </span> <br>
-<b>Kai Huang</b>, Wei Gao <br>
+<b>Kai Huang</b>, Hanyun Yin, Heng Huang, Wei Gao <br>
 [[paper]](http://hellokevin07.github.io/files/GreenTrainer.pdf)
 [[code]](https://github.com/HelloKevin07/GreenTrainer)
 
