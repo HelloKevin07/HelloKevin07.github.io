@@ -9,16 +9,17 @@ redirect_from:
 ---
 
 
-Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year PhD student at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/),  supervised by [Dr. Wei Gao](https://sites.pitt.edu/~weigao/), who leads the [Intelligent Systems Lab @ PITT](https://pittisl.github.io/). I have broad interests in On-Device AI, AI for Systems, Internet of Things, Mobile and Edge Computing.
+Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year PhD student at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/),  supervised by [Dr. Wei Gao](https://sites.pitt.edu/~weigao/), who leads the [Intelligent Systems Lab @ Pitt](https://pittisl.github.io/). I have broad interests in On-Device AI, Large Language Models, AI for Systems, Internet of Things, Mobile and Edge Computing.
 
 Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to (1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; (2) tailor AI models based on domain knowledge, e.g., provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top-tier system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
 
 
 Publications
 ====
-[<b><span style="color:red">ArXiv Preprint</span></b>]
+[<b><span style="color:red">arXiv</span></b>]
 <span style="color:#527bbd">Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation </span> <br>
 <b>Kai Huang</b>, Hanyun Yin, Heng Huang, Wei Gao <br>
+arXiv preprint 2023 <br>
 [[paper]](https://arxiv.org/abs/2309.13192)
 [[code]](https://github.com/HelloKevin07/GreenTrainer)
 
@@ -104,6 +105,7 @@ Education
 
 Latest News
 ====
+* [9/2023] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" is on arXiv!
 * [5/2023] ElasticTrainer got awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4 out of 17 artifacts)!
 * [2/2023] Two papers got conditionally accepted to The 21st ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys)</b> 2023!
 * [10/2022] One paper got accepted to The 20th ACM Conference on Embedded Networked Sensor Systems <b>(SenSys)</b> 2022!
