@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a fourth-year PhD student at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/),  supervised by [Dr. Wei Gao](https://sites.pitt.edu/~weigao/), who leads the [Intelligent Systems Lab @ Pitt](https://pittisl.github.io/). I have broad interests in On-Device AI, Large Language Models, AI for Systems, Internet of Things, Mobile and Edge Computing.
+Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a PhD candidate at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/),  supervised by [Dr. Wei Gao](https://sites.pitt.edu/~weigao/), who leads the [Intelligent Systems Lab @ Pitt](https://pittisl.github.io/). I have broad interests in On-Device AI, Large Language Models, AI for Systems, Internet of Things, Mobile and Edge Computing.
 
 Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to (1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; (2) tailor AI models based on domain knowledge, e.g., provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top-tier system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
 
