@@ -19,7 +19,7 @@ Publications
 [<b><span style="color:red">ArXiv Preprint</span></b>]
 <span style="color:#527bbd">Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation </span> <br>
 <b>Kai Huang</b>, Hanyun Yin, Heng Huang, Wei Gao <br>
-[[paper]](http://hellokevin07.github.io/files/GreenTrainer.pdf)
+[[paper]](https://arxiv.org/abs/2309.13192)
 [[code]](https://github.com/HelloKevin07/GreenTrainer)
 
 [<b><span style="color:red">MobiSys'23</span></b>]
