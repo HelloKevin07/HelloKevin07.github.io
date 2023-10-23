@@ -7,7 +7,7 @@ author_profile: true
 
 \* indicates equal contributions
 
-[<b><span style="color:red">arXiv</span></b>] Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation </span> <br>
+[<b><span style="color:red">arXiv</span></b>] Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation <br>
 <b>Kai Huang</b>, Hanyun Yin, Heng Huang, Wei Gao <br>
 arXiv preprint 2023 <br>
 [[paper]](https://arxiv.org/abs/2309.13192)
