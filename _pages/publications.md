@@ -7,6 +7,13 @@ author_profile: true
 
 \* indicates equal contributions
 
+[<b><span style="color:red">arXiv</span></b>]
+<span style="color:#527bbd">Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI </span> <br>
+<b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
+arXiv preprint 2023 <br>
+[[paper]](https://arxiv.org/abs/2312.07886)
+[[code]](https://github.com/pittisl/mPnP-LLM)
+
 [<b><span style="color:red">arXiv</span></b>] Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation <br>
 <b>Kai Huang</b>, Hanyun Yin, Heng Huang, Wei Gao <br>
 arXiv preprint 2023 <br>
