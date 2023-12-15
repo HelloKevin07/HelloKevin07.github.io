@@ -14,7 +14,8 @@ arXiv preprint 2023 <br>
 [[paper]](https://arxiv.org/abs/2312.07886)
 [[code]](https://github.com/pittisl/mPnP-LLM)
 
-[<b><span style="color:red">arXiv</span></b>] Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation <br>
+[<b><span style="color:red">arXiv</span></b>]
+<span style="color:#527bbd">Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation </span> <br>
 <b>Kai Huang</b>, Hanyun Yin, Heng Huang, Wei Gao <br>
 arXiv preprint 2023 <br>
 [[paper]](https://arxiv.org/abs/2309.13192)
