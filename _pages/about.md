@@ -11,7 +11,9 @@ redirect_from:
 
 Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a PhD candidate at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/),  supervised by [Dr. Wei Gao](https://sites.pitt.edu/~weigao/), who leads the [Intelligent Systems Lab @ Pitt](https://pittisl.github.io/). I have broad interests in Efficient AI, Large Language Models, AI for Systems, Internet of Things, Mobile and Edge Computing.
 
-Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to (1) design efficient AI inference/training schemes for weak embedded devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson; (2) tailor AI models based on domain knowledge, e.g., provide modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top-tier system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
+Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to ***enable fast and reliable AI inference and fine-tuning on resource-constrained platforms***, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson. My early study focuses on tailoring AI models based on domain knowledge, e.g., providing modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Later I started to work on optimizing inference and fine-tuning cost of AI models on weak embedded devices. My targeted AI models range from medium-sized classic models (e.g., CNNs and MLPs) to popular large generative models (e.g., LLMs and stable diffusion), and from unimodality to multimodality (e.g., with text, RGB and LiDAR inputs).
+
+Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top-tier system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
 
 
 Publications
@@ -113,6 +115,7 @@ Education
 
 Latest News
 ====
+* [11/2023] Our paper "Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI" is on arXiv!
 * [9/2023] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" is on arXiv!
 * [5/2023] ElasticTrainer got awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4 out of 17 artifacts)!
 * [2/2023] Two papers got conditionally accepted to The 21st ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys)</b> 2023!
