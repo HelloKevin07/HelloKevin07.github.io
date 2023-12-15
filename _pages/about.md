@@ -13,7 +13,7 @@ Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a PhD candidate at the Department
 
 Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to ***enable fast and reliable AI inference and fine-tuning on resource-constrained platforms***, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson. My early study focuses on tailoring AI models based on domain knowledge, e.g., providing modular, interpretable, and lightweight AI solutions to enhance performance of wireless communication systems (e.g., WiFi and backscatter). Later I started to work on optimizing inference and fine-tuning cost of AI models on weak embedded devices. My targeted AI models range from medium-sized classic models (e.g., CNNs and MLPs) to popular large generative models (e.g., LLMs and stable diffusion), and from unimodality to multimodality (e.g., with text, RGB and LiDAR inputs).
 
-Thanks to my amazing colleagues and advisor, these efforts are turning into publications in top-tier system conferences, e.g., ACM MobiCom, MobiSys, and SenSys.
+***I wish life could be easier and happier*** :blossom:.
 
 
 Publications
