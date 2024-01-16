@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a PhD candidate at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/),  supervised by [Dr. Wei Gao](https://sites.pitt.edu/~weigao/), who leads the [Intelligent Systems Lab @ Pitt](https://pittisl.github.io/). I have broad interests in Efficient AI and AI for Systems. Roughly, I'm trained to have ***70% of my expertise centered on AI methodologies while maintaining a 30% emphasis on systems thinking***.
+Hi, I am Kai Huang `/kaɪ hʊʌŋ/`, currently a PhD candidate at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/),  supervised by [Dr. Wei Gao](https://sites.pitt.edu/~weigao/), who leads the [Intelligent Systems Lab @ Pitt](https://pittisl.github.io/). I have broad interests in Efficient AI and AI for Systems. Roughly, I'm trained to have ***70% of my expertise centered on AI methodologies while reserving a 30% emphasis on systems thinking***.
 
 Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to ***enable fast and reliable AI inference and fine-tuning on resource-constrained platforms***, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson. My early study focused on tailoring AI models based on domain knowledge, e.g., providing modular, interpretable, and lightweight AI solutions to enhance the performance of wireless communication systems (e.g., WiFi and backscatter). Later I started to work on optimizing the inference and training cost of AI models on weak embedded devices. My targeted AI models range from medium-sized classic models (e.g., CNNs and MLPs) to popular large generative models (e.g., LLMs and stable diffusion), and with inputs from unimodality to multimodality (e.g., text, RGB, and LiDAR point cloud). ***I wish life could be easier and happier*** &#127804;.
 
@@ -24,10 +24,11 @@ arXiv preprint 2023 <br>
 [[paper]](https://arxiv.org/abs/2312.07886)
 [[code]](https://github.com/pittisl/mPnP-LLM)
 
-[<b><span style="color:red">arXiv</span></b>]
+[<b><span style="color:red">ICLR'24</span></b>]
 <span style="color:#527bbd">Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation </span> <br>
 <b>Kai Huang</b>, Hanyun Yin, Heng Huang, Wei Gao <br>
-arXiv preprint 2023 <br>
+Twelfth International Conference on Learning Representations<br>
+Acceptance Ratio: 31%<br>
 [[paper]](https://arxiv.org/abs/2309.13192)
 [[code]](https://github.com/HelloKevin07/GreenTrainer)
 
@@ -113,6 +114,7 @@ Education
 
 Latest News
 ====
+* [1/2024] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" got accepted to ICLR 2024!
 * [11/2023] Our paper "Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI" is on arXiv!
 * [9/2023] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" is on arXiv!
 * [5/2023] ElasticTrainer got awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4 out of 17 artifacts)!
