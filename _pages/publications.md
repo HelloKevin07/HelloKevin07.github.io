@@ -36,7 +36,7 @@ Acceptance Ratio: 41/198=20.7%<br>
 <b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
 Proceedings of the 21st International Conference on Mobile Systems, Applications, and Services <br>
 Acceptance Ratio: 41/198=20.7%<br>
-&#127881; Awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4/17) <br>
+&#127881; Received ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4/17) <br>
 [[paper]](http://hellokevin07.github.io/files/mobisys23-ElasticTrainer.pdf)
 [[slides]](https://github.com/HelloKevin07/HelloKevin07.github.io/raw/master/files/ElasticTrainer-slides.pptx)
 [[teaser]](https://youtu.be/q86LnqEew_U)
@@ -91,6 +91,7 @@ Acceptance Ratio: 80/397=20.2%<br>
 
 [<b><span style="color:red">MobiSys'20</span></b>] <span style="color:#527bbd">MagHacker: eavesdropping on stylus pen writing via magnetic sensing from commodity mobile devices</span> <br>
 Yihao Liu\*, <b>Kai Huang</b>\*, Xingzhe Song, Boyuan Yang, Wei Gao <br>
+\* indicates equal contributions <br>
 Proceedings of the 18th International Conference on Mobile Systems, Applications, and Services <br>
 Acceptance Ratio: 34/175=19.4%<br>
 [[paper]](http://hellokevin07.github.io/files/mobisys20-MagHacker.pdf)
