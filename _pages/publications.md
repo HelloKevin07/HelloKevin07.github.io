@@ -17,9 +17,10 @@ arXiv preprint 2023 <br>
 [<b><span style="color:red">ICLR'24</span></b>]
 <span style="color:#527bbd">Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation </span> <br>
 <b>Kai Huang</b>, Hanyun Yin, Heng Huang, Wei Gao <br>
-Twelfth International Conference on Learning Representations<br>
+The Twelfth International Conference on Learning Representations<br>
 Acceptance Ratio: 2250/7304=30.8%<br>
 [[paper]](https://arxiv.org/abs/2309.13192)
+[[talk]](https://recorder-v3.slideslive.com/#/share?share=91206&s=8f42f7fb-f0ed-4714-b281-fa9f52f38379)
 [[code]](https://github.com/HelloKevin07/GreenTrainer)
 
 [<b><span style="color:red">MobiSys'23</span></b>] 
