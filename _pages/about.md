@@ -13,7 +13,7 @@ Hi, I am Kai Huang, currently a PhD candidate at the Department of Electrical an
 
 Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to **enable efficient inference and fine-tuning of AI models**, which can be particularly useful on resource-constrained devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson. My early study focused on **AI for wireless communication**, where I designed modular and lightweight AI models to enhance the performance of wireless communication systems (e.g., WiFi and backscatter). Later I started to work on **On-Device AI**, where I optimized the inference and training cost of AI models on weak embedded devices. Overall my research involves not only traditional AI models (e.g., MLP and CNN), but also large generative models, such as large language models, diffusion models, and large multimodal models. 
 
-Recently I made a [Generative AI Tutorial and Roadmap](https://github.com/pittisl/Generative-AI-Tutorial), which is a detailed learning guide for generative AI research, including a curated list of state-of-the-art research articles, projects, open-sourced code repositories, and other related research resources. Check this out if you are interesed.
+Recently I made [Generative AI Tutorial and Roadmap](https://github.com/pittisl/Generative-AI-Tutorial), which is a detailed learning guide based on my own experience for generative AI research, including a curated list of state-of-the-art research articles, projects, open-sourced code repositories, and other related research resources. Check this out if you are interesed.
 
 
 Publications
