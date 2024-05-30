@@ -8,6 +8,13 @@ author_profile: true
 \* indicates equal contributions
 
 [<b><span style="color:red">arXiv</span></b>]
+<span style="color:#527bbd">FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing</span> <br>
+<b>Kai Huang</b>, Wei Gao <br>
+arXiv preprint<br>
+[[paper]](https://arxiv.org/pdf/2405.17472)
+[[code]](https://github.com/pittisl/FreezeAsGuard)
+
+[<b><span style="color:red">arXiv</span></b>]
 <span style="color:#527bbd">Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI </span> <br>
 <b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
 arXiv preprint 2023 <br>

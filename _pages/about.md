@@ -9,18 +9,27 @@ redirect_from:
 ---
 
 
-Hi, I am Kai Huang, currently a PhD candidate at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/). I have broad interests in Efficient AI and AI for Systems.
+Hi, I am Kai Huang, currently a PhD candidate at the Department of Electrical and Computer Engineering, [University of Pittsburgh](https://www.pitt.edu/). I have broad interests in Efficient AI, On-Device AI, and AI for Systems.
 
-Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to **enable efficient inference and fine-tuning of AI models**, which can be particularly useful on resource-constrained devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson. My early study focused on **AI for wireless communication**, where I designed modular and lightweight AI models to enhance the performance of wireless communication systems (e.g., WiFi and backscatter). Later I started to work on **On-Device AI**, where I optimized the inference and training cost of AI models on weak embedded devices. Overall my research involves not only traditional AI models (e.g., MLP and CNN), but also large generative models, such as large language models, diffusion models, and large multimodal models. Recently I made a subjective [roadmap](https://github.com/pittisl/Generative-AI-Tutorial) for Generative AI.
+Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to **enable efficient inference and fine-tuning of AI models**, which can be particularly useful on resource-constrained devices, e.g., MCU boards, Raspberry Pi, and Nvidia Jetson. My early study focused on **AI for wireless communication**, where I designed modular and lightweight AI models to enhance the performance of wireless communication systems (e.g., WiFi and backscatter). Later I started to work on **On-Device AI**, where I optimized the inference and training cost of AI models on weak embedded devices. Overall my research involves not only traditional AI models (e.g., MLP and CNN), but also large generative models, such as large language models, diffusion models, and large multimodal models. 
+
+Recently I made a [Generative AI Tutorial and Roadmap](https://github.com/pittisl/Generative-AI-Tutorial), which is a detailed learning guide for generative AI research, including a curated list of state-of-the-art research articles, projects, open-sourced code repositories, and other related research resources. Check this out if you are interesed.
 
 
 Publications
 ====
 
 [<b><span style="color:red">arXiv</span></b>]
+<span style="color:#527bbd">FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing</span> <br>
+<b>Kai Huang</b>, Wei Gao <br>
+arXiv preprint 2024<br>
+[[paper]](https://arxiv.org/pdf/2405.17472)
+[[code]](https://github.com/pittisl/FreezeAsGuard)
+
+[<b><span style="color:red">arXiv</span></b>]
 <span style="color:#527bbd">Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI </span> <br>
 <b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
-arXiv preprint 2023 <br>
+arXiv preprint 2023<br>
 [[paper]](https://arxiv.org/abs/2312.07886)
 [[code]](https://github.com/pittisl/mPnP-LLM)
 
@@ -118,7 +127,7 @@ Latest News
 * [1/2024] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" got accepted to ICLR 2024!
 * [11/2023] Our paper "Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI" is on arXiv!
 * [9/2023] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" is on arXiv!
-* [5/2023] ElasticTrainer got awarded ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4 out of 17 artifacts)!
+* [5/2023] ElasticTrainer received ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4 out of 17 artifacts)!
 * [2/2023] Two papers got conditionally accepted to The 21st ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys)</b> 2023!
 * [10/2022] One paper got accepted to The 20th ACM Conference on Embedded Networked Sensor Systems <b>(SenSys)</b> 2022!
 * [6/2022] One paper got accepted to The 28th Annual International Conference on Mobile Computing and Networking <b>(MobiCom)</b> 2022!
