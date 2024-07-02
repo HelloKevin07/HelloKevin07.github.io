@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am Kai Huang. I received my Ph.D. in Electrical and Computer Engineering from [University of Pittsburgh](https://www.pitt.edu/). and my B.E. from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I have broad interests in Efficient AI and AI for Systems.
+Hi, I am Kai Huang. I received my Ph.D. in Electrical and Computer Engineering from [University of Pittsburgh](https://www.pitt.edu/) and my B.E. from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I have broad interests in Efficient AI and AI for Systems.
 
 Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to **enable efficient inference and fine-tuning of AI models**, which can be particularly useful for applications on resource-constrained devices, e.g., STM32 boards, Raspberry Pi, and Nvidia Jetson. My early study focused on **AI for wireless communication**, where I designed modular and lightweight AI models to enhance the performance of wireless communication systems (e.g., WiFi and backscatter). Later I started to work on **On-Device AI**, where I optimized the inference and training cost of AI models on weak embedded devices. I also have some research experience in **Trustworthy AI**. Overall my research involves not only traditional AI models (e.g., MLP, CNN, and LSTM), but also large generative models, such as large language models, diffusion models, and large multimodal models. 
 
