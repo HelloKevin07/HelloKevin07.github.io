@@ -23,21 +23,6 @@ Super-Resolution using Heterogeneous Processors on Mobile Devices" got condition
 * [5/2024] Our tutorial for Generatative AI Research is released!
 * [1/2024] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" got accepted to ICLR 2024!
 
-<details>
-  <summary>View more</summary>
-
-* [11/2023] Our paper "Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI" is on arXiv!
-* [9/2023] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" is on arXiv!
-* [5/2023] ElasticTrainer received ACM Artifact Available, Functional, Reusable, Results Replicated Badges (4 out of 17 artifacts)!
-* [2/2023] Two papers got conditionally accepted to The 21st ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys)</b> 2023!
-* [10/2022] One paper got accepted to The 20th ACM Conference on Embedded Networked Sensor Systems <b>(SenSys)</b> 2022!
-* [6/2022] One paper got accepted to The 28th Annual International Conference on Mobile Computing and Networking <b>(MobiCom)</b> 2022!
-* [1/2022] One paper got accepted to The 7th ACM/IEEE International Conference on Internet of Things Design and Implementation <b>(IoTDI)</b> 2022!
-* [1/2022] One paper got accepted to The 21st ACM/IEEE International Conference on Information Processing in Sensor Networks <b>(IPSN)</b> 2022!
-* [11/2021] One paper got accepted to Proceedings of the 27th International Conference on Architectural Support for Programming Languages and Operating Systems <b>(ASPLOS)</b> 2022!
-* [3/2020] One paper got accepted to The 18th ACM International Conference on Mobile Systems, Applications, and Services <b>(MobiSys)</b> 2020!
-</details>
-
 
 Publications
 ====
