@@ -20,7 +20,7 @@ Latest News
 ====
 * [6/2024] Our paper "Perceptual-Centric Image
 Super-Resolution using Heterogeneous Processors on Mobile Devices" got conditionally accepted to MobiCom 2024!
-* [5/2024] Our tutorial for Generatative AI Research is released!
+* [5/2024] Our tutorial for Generative AI Research is released!
 * [1/2024] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" got accepted to ICLR 2024!
 
 
