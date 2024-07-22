@@ -39,6 +39,7 @@ arXiv preprint arXiv:2406.06562<br>
 arXiv preprint arXiv:2405.17472<br>
 [[paper]](https://arxiv.org/pdf/2405.17472)
 [[code]](https://github.com/pittisl/FreezeAsGuard)
+[[dataset]](https://huggingface.co/datasets/hosiet/famous-figures-25)
 
 [<b><span style="color:red">arXiv</span></b>]
 <span style="color:#527bbd">Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI </span> <br>
