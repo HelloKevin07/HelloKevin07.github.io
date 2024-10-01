@@ -27,13 +27,13 @@ Super-Resolution using Heterogeneous Processors on Mobile Devices" got condition
 Publications
 ====
 
-[<b><span style="color:red">arXiv</span></b>]
+[<b>arXiv</b>]
 <span style="color:#527bbd">Achieving Sparse Activation in Small Language Models</span><br> Jifeng Song, <b>Kai Huang</b>, Xiangyu Yin, Boyuan Yang, Wei Gao <br>
 arXiv preprint arXiv:2406.06562<br>
 [[paper]](https://arxiv.org/pdf/2406.06562)
 [[code]](https://github.com/pittisl/Sparse-Activation)
 
-[<b><span style="color:red">arXiv</span></b>]
+[<b>arXiv</b>]
 <span style="color:#527bbd">FreezeAsGuard: Mitigating Illegal Adaptation of Diffusion Models via Selective Tensor Freezing</span> <br>
 <b>Kai Huang</b>, Wei Gao <br>
 arXiv preprint arXiv:2405.17472<br>
@@ -41,7 +41,7 @@ arXiv preprint arXiv:2405.17472<br>
 [[code]](https://github.com/pittisl/FreezeAsGuard)
 [[dataset]](https://huggingface.co/datasets/hosiet/famous-figures-25)
 
-[<b><span style="color:red">arXiv</span></b>]
+[<b>arXiv</b>]
 <span style="color:#527bbd">Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI </span> <br>
 <b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
 arXiv preprint arXiv:2312.07886<br>
