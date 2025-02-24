@@ -41,12 +41,12 @@ arXiv preprint arXiv:2405.17472<br>
 [[code]](https://github.com/pittisl/FreezeAsGuard)
 [[dataset]](https://huggingface.co/datasets/hosiet/famous-figures-25)
 
-[<b>arXiv</b>]
-<span style="color:#527bbd">Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI </span> <br>
-<b>Kai Huang</b>, Boyuan Yang, Wei Gao <br>
-arXiv preprint arXiv:2312.07886<br>
-[[paper]](https://arxiv.org/abs/2312.07886)
-[[code]](https://github.com/pittisl/mPnP-LLM)
+[<b><span style="color:red">MobiCom'25</span></b>]
+<span style="color:#527bbd">Modality Plug-and-Play: Runtime Modality Adaptation in LLM-Driven Autonomous Mobile Systems </span> <br>
+<b>Kai Huang</b>, Xiangyu Yin, Heng Huang, Wei Gao <br>
+The 31st ACM International Conference on Mobile Computing and Networking<br>
+[to appear]
+
 
 [<b><span style="color:red">MobiCom'24</span></b>] <span style="color:#527bbd">Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices</span> <br>
 <b>Kai Huang</b>, Xiangyu Yin, Tao Gu, Wei Gao <br>
