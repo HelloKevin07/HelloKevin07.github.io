@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 
-Hi, I am Kai Huang. I received my Ph.D. in Electrical and Computer Engineering from [University of Pittsburgh](https://www.pitt.edu/) and my B.E. from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I have broad interests in Efficient AI and AI for Systems.
+Hi, I am Kai Huang. I received my Ph.D. in Electrical and Computer Engineering from [University of Pittsburgh](https://www.pitt.edu/) and my B.E. from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). I have broad interests in Efficient AI, AI for Systems, and Large Generative Models.
 
-Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My research aims to **enable efficient inference and fine-tuning of AI models**, which can be particularly useful for applications on resource-constrained devices, e.g., STM32 boards, Raspberry Pi, and Nvidia Jetson. My early study focused on **AI for wireless communication**, where I designed modular and lightweight AI models to enhance the performance of wireless communication systems (e.g., WiFi and backscatter). Later I started to work on **On-Device AI**, where I optimized the inference and training cost of AI models on weak embedded devices. I also have some research experience in **Trustworthy AI**. Overall my research involves not only traditional AI models (e.g., MLP, CNN, and LSTM), but also large generative models, such as large language models, diffusion models, and large multimodal models. 
+Here is my [CV](http://hellokevin07.github.io/files/CV_KaiHuang.pdf). My PhD research aims to **enable efficient inference and fine-tuning of AI models**, which can be particularly useful for applications on resource-constrained devices, e.g., STM32 boards, Raspberry Pi, and Nvidia Jetson. My early study focused on **AI for wireless communication**, where I designed modular and lightweight AI models to enhance the performance of wireless communication systems (e.g., WiFi and backscatter). Later I started to work on **On-Device AI**, where I optimized the inference and training cost of AI models on weak embedded devices. I also have some research experience in **Trustworthy AI**. Overall my research involves not only traditional AI models (e.g., MLP, CNN, and LSTM), but also large generative models, such as large language models, diffusion models, and large multimodal models. 
 
-Recently I made [Generative AI Tutorial and Roadmap](https://github.com/pittisl/Generative-AI-Tutorial), which is a detailed learning guide based on my own experience for generative AI research, including a curated list of state-of-the-art research articles, projects, open-sourced code repositories, and other related research resources. Check this out if you are interested.
+I made [Generative AI Tutorial and Roadmap](https://github.com/pittisl/Generative-AI-Tutorial), which is a detailed learning guide based on my own experience for generative AI research, including a curated list of state-of-the-art research articles, projects, open-sourced code repositories, and other related research resources. Check this out if you are interested.
 
 
 Latest News
 ====
-* [6/2024] Our paper "Perceptual-Centric Image
-Super-Resolution using Heterogeneous Processors on Mobile Devices" got conditionally accepted to MobiCom 2024!
+* [8/2024] Our paper "Perceptual-Centric Image
+Super-Resolution using Heterogeneous Processors on Mobile Devices" got accepted to MobiCom 2024!
 * [5/2024] Our tutorial for Generative AI Research is released!
 * [1/2024] Our paper "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation" got accepted to ICLR 2024!
 
@@ -43,9 +43,11 @@ arXiv preprint arXiv:2405.17472<br>
 
 [<b><span style="color:red">MobiCom'25</span></b>]
 <span style="color:#527bbd">Modality Plug-and-Play: Runtime Modality Adaptation in LLM-Driven Autonomous Mobile Systems </span> <br>
-<b>Kai Huang</b>, Xiangyu Yin, Heng Huang, Wei Gao <br>
+\* indicates equal contributions <br>
+<b>Kai Huang</b>\*, Xiangyu Yin\*, Heng Huang, Wei Gao <br>
 The 31st ACM International Conference on Mobile Computing and Networking<br>
-[to appear]
+Acceptance Rate: 41/240=17.1%<br>
+[[paper]](https://sites.pitt.edu/~weigao/publications/mobicom25_mpnp.pdf)
 
 
 [<b><span style="color:red">MobiCom'24</span></b>] <span style="color:#527bbd">Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices</span> <br>
@@ -141,9 +143,9 @@ Acceptance Rate: 34/175=19.4%<br>
 
 Education
 ====
-<b>Ph.D.</b>, Electrical and Computer Engineering, University of Pittsburgh, Sept. 2019 - May 2024
+<b>Ph.D.</b>, Electrical and Computer Engineering, University of Pittsburgh, Sep 2019 - May 2024
 
-<b>B.E.</b>, Electronic Information Engineering, University of Science and Technology of China (USTC), Sept. 2015 - July 2019
+<b>B.E.</b>, Electronic Information Engineering, University of Science and Technology of China (USTC), Sep 2015 - Jul 2019
 
 
 
